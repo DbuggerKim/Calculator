@@ -1,4 +1,4 @@
-# Calculator
+# Circuitbased Calculator
 
 <img width="400" height="300" alt="7SEGMENT입출력기" src="https://user-images.githubusercontent.com/26247241/190417893-148eac47-5ffc-4244-a90e-a143d0c6b799.png">   <img width="400" height="300" alt="1" src="https://user-images.githubusercontent.com/26247241/190417933-3e489a36-9881-407f-b382-91f08980f738.png">
 
