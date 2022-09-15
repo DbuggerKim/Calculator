@@ -1,5 +1,7 @@
 # Calculator
 
+<img width="400" height="300" alt="image" src="https://user-images.githubusercontent.com/26247241/190357257-06b892b3-0d72-48f7-a297-b2bfebb0d38b.png">
+
 
 timespent : 2015.10~12
 
