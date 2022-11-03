@@ -11,7 +11,7 @@
 
 > timespent : 2015.10~12
 
-> tech : Logic Works
+> tech : LogicWorks
 
 > functions : Decoder, MUX 레지스터 등 활용한 4칙연산기, n진수변환, 팩토리얼연산, A^B연산
  
